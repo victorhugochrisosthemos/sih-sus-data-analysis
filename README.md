@@ -48,3 +48,16 @@ modelo que combina autoregressão, diferenciação, médias móveis e sazonalida
 (Prophet Forecasting Model)<br>
 
 modelo aditivo de séries temporais com tendência, sazonalidade e tratamento de ruído<br><br>
+
+### Para projetos futuros
+
+Interessante considerar outras questões como o custo hospitalar e visualização desses dados, <br>
+criação um grafo envolvendo cidade de moradia e local da internação a fim de verificar padrões, <br>
+usar métricas de desempenho para as previsões e explorar correlações entre as colunas. Sobre e exploração <br>
+de dados realizada até aqui, penso ser valido considerar a aplicação do método também em outros cenários como:<br>
+
+- Em análise de ações na bolsa de valores, associado com outros fatores e gerando resultados com média ponderada sobre os fatores
+
+- Acompanhar as vendas de produtos ou ocupações de hospedagem em hotéis e validar se certa ação de vendas fez diferença nos resultados
+
+- Entender a evolução de abertura de casos de suporte sobre um rol de produtos em uma empresa
